@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/
+N1-E1.iml
+markmap/
